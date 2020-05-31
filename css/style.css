@@ -84,3 +84,10 @@ ul li.active a{
     background-color: rgb(55, 165, 199);
     color: black;
 }
+
+.bottom{
+    position: absolute;
+    top: 90%;
+    left: 90%;
+       
+}
