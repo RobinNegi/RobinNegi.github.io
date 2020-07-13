@@ -14,7 +14,9 @@
     text-align: center;
     border: black solid 1px;
 }
-
+#menu{
+    text-align: center;
+}
 #chi{
     background-color: rgb(218, 120, 96);
 }
