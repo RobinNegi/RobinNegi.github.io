@@ -1,5 +1,9 @@
 
-
+.navbar
+{
+    background-color: cadetblue;
+    margin-bottom: 50px;
+}
 .nav-item{
     margin:0px;
     background-color: aquamarine;
@@ -9,4 +13,14 @@
 {
     text-align: center;
     border: black solid 1px;
+}
+
+#chi{
+    background-color: rgb(218, 120, 96);
+}
+#bur{
+    background-color: rgb(106, 206, 122);
+}
+#oml{
+    background-color: cornsilk;
 }
