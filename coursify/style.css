@@ -142,18 +142,18 @@ margin-left: 0.5rem;
   @media (max-width: 768px){
     .container {
       position: absolute;
-      height: 300px;
-      width: 600px;
+      height: 250px;
+      width: 550px;
       top: 60px;
-      margin-left: 5rem;
+      margin-left: 8rem;
       left: calc(50% - 300px);
       display: flex;
     }
     
     .card {
       display: flex;
-      height: 220px;
-      width: 140px;
+      height: 200px;
+      width: 120px;
       background-color: #17141d;
       border-radius: 10px;
       box-shadow: -1rem 0 3rem #000;
