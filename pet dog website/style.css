@@ -1,0 +1,61 @@
+/* Navigation */
+
+
+    .navbar
+    {
+        background : #fcba03 !important; 
+    }
+    
+    .nav-link
+    {
+        font-size: 1.5rem;
+    }
+    
+    .nav-link
+    {
+        margin-left: 1.5rem;
+    }
+    
+    .txt
+    {    
+        font-size: 80px;
+        font-family: 'Montserrat', sans-serif;
+        margin-top: 17px;
+        animation: fade 4s  ;
+          
+    }
+    
+    @keyframes fade {
+        0%   {opacity: 0;}
+        
+        100% {opacity: 1;}
+      }
+    
+    .rw2
+    {
+        background-color:  #5888d6;
+    
+    }
+    
+    .page-footer
+    {
+        background : #fcba03 !important;
+    }
+    
+    .adoptbg
+    {
+        background: url(dog3.jpg) ;
+        background-size: cover;
+    }
+
+    .abt
+    {
+background-image: url(d0g4.jpg);
+background-size: cover;
+
+    }
+
+.opacity
+{
+    opacity: 0.8;
+}
